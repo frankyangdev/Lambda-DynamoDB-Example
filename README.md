@@ -1,4 +1,4 @@
-# Lambda-DynamoDB-Ice-creame-shop-example
+# Lambda-DynamoDB-Ice-cream-shop-example
 
 npm init -f
 npm install aws-sdk claudia-api-builder -S 
